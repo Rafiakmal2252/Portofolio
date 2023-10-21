@@ -1,2 +1,2 @@
 # Portofolio
-Portofolio pertama untuk belajar GitHub
+Portofolio pertama
